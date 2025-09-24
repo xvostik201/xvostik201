@@ -17,13 +17,13 @@
 
 ## 🚀 Featured Projects
 - **Titanic Game (Ship Controls)** — штурвал, телеграф, физика руления  
-  Repo: [link] | Demo: [link]
+  Repo: [https://github.com/xvostik201/Titanic-Game] | Demo: [https://github.com/xvostik201/Titanic-Game/releases/tag/Beta0]
 - **PendulumTestGame** — физика, раскачивание, корректная архитектура  
   Repo: [https://github.com/xvostik201/PendulumTestGame]
 - **Shooter2DTestGame** — оружейные системы, пуллинг, враги, UI  
   Repo: [https://github.com/xvostik201/Shooter2DTestGame]
 - **Word Grid** — генерация слов по сетке, темы, Addressables/обновления  
-  Repo: [link]
+  Repo: [https://github.com/xvostik201/FindWords]
 - **Bubble Shooter** — коннекты шаров, поведение, разрушение  
   Repo: [https://github.com/xvostik201/bubbleShoterCode]
 
