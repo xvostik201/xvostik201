@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Unity Developer — xvostik201" />
-</p>
 
 <h1 align="center">Zahar “xvostik201” — Unity Developer</h1>
 
