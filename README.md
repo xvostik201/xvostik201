@@ -38,15 +38,16 @@ WebGL/Android/iOS · Git · Profiling/Optimization · **Spine/Blender (basic)**
 
 ## 📄 Portfolio / PDF
 
-## RU
+
+## 🇬🇧 EN
+[PortfolioEn.pdf](https://github.com/user-attachments/files/22519216/PortfolioEn.pdf)
+[PortfolioOldWithProjectsEn.pdf](https://github.com/user-attachments/files/22519213/PortfolioOldWithProjectsEn.pdf)
+
+## 🇷🇺 RU
 
 [PortfolioRu.pdf](https://github.com/user-attachments/files/22519215/PortfolioRu.pdf)
 [PortfolioOldWithProjectsRu.pdf](https://github.com/user-attachments/files/22519214/PortfolioOldWithProjectsRu.pdf)
 
-
-## EN
-[PortfolioEn.pdf](https://github.com/user-attachments/files/22519216/PortfolioEn.pdf)
-[PortfolioOldWithProjectsEn.pdf](https://github.com/user-attachments/files/22519213/PortfolioOldWithProjectsEn.pdf)
 
 ## 📬 Contacts
 - Email: **zkostyutkin2004@gmail.com**  
