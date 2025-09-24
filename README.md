@@ -5,6 +5,7 @@
   <a href="mailto:zkostyutkin2004@gmail.com">Email</a> ·
   <a href="https://t.me/xvostik201">Telegram</a> ·
   <a href="https://github.com/xvostik201">GitHub</a>
+
 </p>
 
 ---
@@ -36,8 +37,16 @@ WebGL/Android/iOS · Git · Profiling/Optimization · **Spine/Blender (basic)**
 - Пуллинг, event-driven, минимизация `Update`, ScriptableObject-конфиги
 
 ## 📄 Portfolio / PDF
-- <a href="./portfolio/Unity_Portfolio_Zahar.pdf">Скачать портфолио (PDF)</a>  
-- <a href="./portfolio/Resume_Zahar_Unity.pdf">Резюме (PDF)</a>
+
+## RU
+
+[PortfolioRu.pdf](https://github.com/user-attachments/files/22519215/PortfolioRu.pdf)
+[PortfolioOldWithProjectsRu.pdf](https://github.com/user-attachments/files/22519214/PortfolioOldWithProjectsRu.pdf)
+
+
+## EN
+[PortfolioEn.pdf](https://github.com/user-attachments/files/22519216/PortfolioEn.pdf)
+[PortfolioOldWithProjectsEn.pdf](https://github.com/user-attachments/files/22519213/PortfolioOldWithProjectsEn.pdf)
 
 ## 📬 Contacts
 - Email: **zkostyutkin2004@gmail.com**  
