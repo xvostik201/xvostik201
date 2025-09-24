@@ -1,11 +1,9 @@
-
 <h1 align="center">Zahar “xvostik201” — Unity Developer</h1>
 
 <p align="center">
   <a href="mailto:zkostyutkin2004@gmail.com">Email</a> ·
   <a href="https://t.me/xvostik201">Telegram</a> ·
   <a href="https://github.com/xvostik201">GitHub</a>
-
 </p>
 
 ---
@@ -38,20 +36,18 @@ WebGL/Android/iOS · Git · Profiling/Optimization · **Spine/Blender (basic)**
 
 ## 📄 Portfolio / PDF
 
+### 🇬🇧 English
+- [PortfolioEn.pdf](https://github.com/user-attachments/files/22519216/PortfolioEn.pdf)  
+- [PortfolioOldWithProjectsEn.pdf](https://github.com/user-attachments/files/22519213/PortfolioOldWithProjectsEn.pdf)
 
-## 🇬🇧 EN
-[PortfolioEn.pdf](https://github.com/user-attachments/files/22519216/PortfolioEn.pdf)
-[PortfolioOldWithProjectsEn.pdf](https://github.com/user-attachments/files/22519213/PortfolioOldWithProjectsEn.pdf)
-
-## 🇷🇺 RU
-
-[PortfolioRu.pdf](https://github.com/user-attachments/files/22519215/PortfolioRu.pdf)
-[PortfolioOldWithProjectsRu.pdf](https://github.com/user-attachments/files/22519214/PortfolioOldWithProjectsRu.pdf)
-
+### 🇷🇺 Russian
+- [PortfolioRu.pdf](https://github.com/user-attachments/files/22519215/PortfolioRu.pdf)  
+- [PortfolioOldWithProjectsRu.pdf](https://github.com/user-attachments/files/22519214/PortfolioOldWithProjectsRu.pdf)
 
 ## 📬 Contacts
 - Email: **zkostyutkin2004@gmail.com**  
 - Telegram: **@xvostik201**
 
 ---
-> “Make it scalable, readable, and fun to play.”
+> “Don’t let anyone tell you who you should be.”
+— Carl Manfred
