@@ -1,81 +1,83 @@
-# Hey, I'm Zahar — Unity Developer  
+# Hey, I'm Zahar — Unity Developer (C#)  
 ![Unity](https://img.shields.io/badge/Unity-2022.3_LTS-black?logo=unity)
-![C#](https://img.shields.io/badge/C%23-Gameplay_Engineer-blue?logo=csharp)
-![Focus](https://img.shields.io/badge/Focus-Game_Systems-orange)
+![C#](https://img.shields.io/badge/C%23-Gameplay_%26_Systems-blue?logo=csharp)
+![Focus](https://img.shields.io/badge/Focus-Game_Systems_%7C_UI_%7C_Optimization-orange)
 
-I build gameplay systems, UI architecture, camera pipelines, and real-time technical features in Unity.  
-My strongest side is creating **clean modular systems** with production-ready structure and smooth UX flow.
+I build **gameplay & systems** in Unity: interaction logic, state-driven mechanics, UI/HUD, camera pipelines, and real-time technical features.
+My strongest side is turning ideas into **clean, modular, production-ready systems** with solid structure and smooth UX flow.
 
----
-
-# ✈️ MQ-9 Drone Simulation (Flagship Project)
-
-A real-time UAV simulation showcasing sensor workflows, thermal vision, targeting, mission flow, and map UI.  
-This project demonstrates my ability to work with:
-
-- Inertial gimbal camera systems  
-- Thermal vision shaders & post-processing  
-- Complex HUDs (compass, distance, lock states, zoom logic)  
-- Map UI (paths, marks, heading, Paladin artillery units)  
-- Ballistic solver & firing sequence  
-- Clean modular architecture (Input → Drone → Sensors → HUD → Missions → Map)
-
-### 🔗 Project Link  
-👉 https://github.com/xvostik201/MQ9DroneSimulation
+**Links:**  
+- Portfolio: https://zakharkostyutkindev.tilda.ws/  
+- LinkedIn: https://www.linkedin.com/in/zakhar-kostyutkin-b2740b393/  
+- Demos / Videos: https://drive.google.com/drive/folders/1sjly5KAbM_YQ3lAkjb03RAsgwJ3lRHaG?usp=drive_link  
+- Email: zkostyutkin2004@gmail.com  
 
 ---
 
-# 🎮 Featured Projects
+## 🚀 Flagship Project — Drone Simulator (UAV Operator Workflow)
 
-### **MQ-9 Drone Simulation**  
-Recon, thermal vision, ballistic artillery, mission system, UI/HUD.  
-**Tech:** Sensors, Raycasts, DOTween, Thermal Vision, Terrain deformation.
+A real-time UAV simulation focused on **sensor workflows**, **thermal vision**, **targeting**, **mission flow**, and **map UI**.
+This project represents my approach to building complex features as readable, scalable modules.
 
-### **Paladin Ballistics System**  
-Artillery solver with real physics, trajectory prediction, spread, recoil, multi-unit fire control.
+**Highlights**
+- Sensor / targeting pipeline (raycasts, states, lock logic, zoom logic)
+- Operator HUD (compass, distance, status indicators, UX feedback)
+- Camera & gimbal workflow (stabilization / inertial feel)
+- Thermal vision (post-processing / shader-based effects)
+- Mission flow + map UI (paths, marks, headings)
+- Modular architecture: `Input → Vehicle → Sensors → HUD → Missions → Map`
 
-### **Shape Match (Prototype)**  
-Casual gameplay prototype: snapping logic, piece detection, clean UI, animations.
+**Repo:** https://github.com/xvostik201/MQ9DroneSimulation  
+**Demo:** https://xvostik201.itch.io/dronesimulator  
 
-### **Word Grid Game**  
+> 🎥 *Add a 5–10s GIF here:* targeting → lock → thermal toggle → HUD updates
+
+---
+
+## 🎮 Featured Projects
+
+### **Echoes in the Hull** — Horror / Technical Demo (in development)
+Atmospheric station demo: interaction systems, level logic, and “threat” behavior.
+Repo: https://github.com/xvostik201/EchoesInTheHull
+
+### **Paladin Ballistics System**
+Artillery solver: trajectory prediction, spread, recoil, firing sequence, multi-unit fire control.
+> *Add repo/demo link here when ready*
+
+### **Word Grid Game**
 Procedural word placement (vertical/horizontal), data-driven themes, grid generation, mobile-ready UI.
+> *Add repo/demo link here when ready*
+
+### **Shape Match (Prototype)**
+Casual prototype: snapping logic, piece detection, clean UI, animations.
+> *Add repo/demo link here when ready*
 
 ---
 
-# 🛠 Skills & Tools
+## 🧠 What I’m good at
 
-**Languages:**  
-C#, Shader Graph basics, HLSL fragments
-
-**Unity:**  
-- Gameplay systems  
-- UI Toolkit / UGUI  
-- DOTween  
-- Scriptable Architecture  
-- Object Pooling  
-- NavMesh + AI agents  
-- Physics  
-- Cinemachine basics  
-- Addressables (in progress)
-
-**Workflow:**  
-Git, GitHub, Rider, Profiling, Optimization
+- Gameplay systems & state logic (FSM / event-driven flows)
+- Interaction systems (doors/terminals/tools)
+- UI/HUD architecture (UGUI / UI Toolkit), UX feedback
+- Camera pipelines (Cinemachine basics), sensor-like workflows
+- Optimization & profiling (Update cost, allocations/GC, stability)
+- Tools & workflow: Git, GitHub, Rider
 
 ---
 
-# 📂 GitHub Stats  
+## 🧰 Tech Stack
+
+**Unity:** UGUI / UI Toolkit, DOTween, Object Pooling, NavMesh, Physics, Addressables (in progress)  
+**Languages:** C#, Shader Graph basics (HLSL fragments)  
+**Workflow:** Git, profiling, optimization
+
+---
+
+## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=xvostik201&show_icons=true&theme=dark&hide_title=true)
 
 ---
 
-# 📫 Contact
-
-📧 Email: **zkostyutkin2004@gmail.com**  
-🐙 GitHub: **https://github.com/xvostik201**  
-
----
-
-### 👋 Note  
-This profile highlights my personal growth in game development — from prototypes to fully structured systems like the MQ-9 drone simulation.  
-I focus on clean code, strong architecture, and creating technical gameplay features.
-
+## 👋 Note
+I prefer to **show results** in builds and code rather than making promises.
+If you want, I can walk through the architecture of my flagship project in a short demo call.
