@@ -40,18 +40,6 @@ This project represents my approach to building complex features as readable, sc
 Atmospheric station demo: interaction systems, level logic, and “threat” behavior.
 Repo: https://github.com/xvostik201/EchoesInTheHull
 
-### **Paladin Ballistics System**
-Artillery solver: trajectory prediction, spread, recoil, firing sequence, multi-unit fire control.
-> *Add repo/demo link here when ready*
-
-### **Word Grid Game**
-Procedural word placement (vertical/horizontal), data-driven themes, grid generation, mobile-ready UI.
-> *Add repo/demo link here when ready*
-
-### **Shape Match (Prototype)**
-Casual prototype: snapping logic, piece detection, clean UI, animations.
-> *Add repo/demo link here when ready*
-
 ---
 
 ## 🧠 What I’m good at
