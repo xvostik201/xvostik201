@@ -30,8 +30,6 @@ This project represents my approach to building complex features as readable, sc
 **Repo:** https://github.com/xvostik201/MQ9DroneSimulation  
 **Demo:** https://xvostik201.itch.io/dronesimulator  
 
-> 🎥 *Add a 5–10s GIF here:* targeting → lock → thermal toggle → HUD updates
-
 ---
 
 ## 🎮 Featured Projects
