@@ -61,10 +61,6 @@ Repo: https://github.com/xvostik201/EchoesInTheHull
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=xvostik201&show_icons=true&theme=dark&hide_title=true)
-
----
 
 ## 👋 Note
 I prefer to **show results** in builds and code rather than making promises.
