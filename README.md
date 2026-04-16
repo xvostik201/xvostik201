@@ -1,65 +1,65 @@
-# Hey, I'm Zahar — Unity Developer (C#)  
-![Unity](https://img.shields.io/badge/Unity-2022.3_LTS-black?logo=unity)
-![C#](https://img.shields.io/badge/C%23-Gameplay_%26_Systems-blue?logo=csharp)
-![Focus](https://img.shields.io/badge/Focus-Game_Systems_%7C_UI_%7C_Optimization-orange)
+<div align="center">
 
-I build **gameplay & systems** in Unity: interaction logic, state-driven mechanics, UI/HUD, camera pipelines, and real-time technical features.
-My strongest side is turning ideas into **clean, modular, production-ready systems** with solid structure and smooth UX flow.
+# 🎮 Zakhar Kostyuktin — Unity Developer (C#)
+> Building systems that *feel* right. Gameplay mechanics, real-time features, clean architecture.
 
-**Links:**  
-- Portfolio: https://zakharkostyutkindev.tilda.ws/  
-- LinkedIn: https://www.linkedin.com/in/zakhar-kostyutkin-b2740b393/  
-- Demos / Videos: https://drive.google.com/drive/folders/1sjly5KAbM_YQ3lAkjb03RAsgwJ3lRHaG?usp=drive_link  
-- Email: zkostyutkin2004@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakhar%20Kostyuktin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zakhar-kostyutkin-b2740b393/)
+[![Email](https://img.shields.io/badge/Email-zkostyutkin2004%40gmail.com-red?style=flat-square&logo=gmail)](mailto:zkostyutkin2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zakharkostyutkindev.tilda.ws-green?style=flat-square)](https://zakharkostyutkindev.tilda.ws/)
+
+<br>
 
 ---
 
-## 🚀 Flagship Project — Drone Simulator (UAV Operator Workflow)
+## 🛠️ Personal Drive & Philosophy
+I am a developer driven by **mathematics** and **technical precision**. <br> My passion lies in creating deep, immersive systems where every interaction feels tactile and meaningful.
 
-A real-time UAV simulation focused on **sensor workflows**, **thermal vision**, **targeting**, **mission flow**, and **map UI**.
-This project represents my approach to building complex features as readable, scalable modules.
+**🚀 Space Exploration** | **✈️ Aviation & Simulators** | **📐 Math-Driven Mechanics**
 
-**Highlights**
-- Sensor / targeting pipeline (raycasts, states, lock logic, zoom logic)
-- Operator HUD (compass, distance, status indicators, UX feedback)
-- Camera & gimbal workflow (stabilization / inertial feel)
-- Thermal vision (post-processing / shader-based effects)
-- Mission flow + map UI (paths, marks, headings)
-- Modular architecture: `Input → Vehicle → Sensors → HUD → Missions → Map`
-
-**Repo:** https://github.com/xvostik201/MQ9DroneSimulation  
-**Demo:** https://xvostik201.itch.io/dronesimulator  
+*Huge fan of the **Apollo 11** mission legacy and the engineering perfection of the **F-4 Phantom II**.* <br> I strive to bring that same level of "analog-to-digital" immersivity into every system I build.
 
 ---
 
-## 🎮 Featured Projects
+<br>
 
-### **Echoes in the Hull** — Horror / Technical Demo (in development)
-Atmospheric station demo: interaction systems, level logic, and “threat” behavior.
-Repo: https://github.com/xvostik201/EchoesInTheHull
+## 🚀 Featured Projects
 
----
+### 🔫 [Shooting-Pattern](https://github.com/xvostik201/Shooting-Pattern)
+**Advanced ballistics with clean SOLID architecture.**
+<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=xvostik201&repo=Shooting-Pattern&theme=dark)](https://github.com/xvostik201/Shooting-Pattern)
 
-## 🧠 What I’m good at
+*Dual-raycast parallax compensation, procedural recoil (Curves/Arrays), and Zenject DI.*
 
-- Gameplay systems & state logic (FSM / event-driven flows)
-- Interaction systems (doors/terminals/tools)
-- UI/HUD architecture (UGUI / UI Toolkit), UX feedback
-- Camera pipelines (Cinemachine basics), sensor-like workflows
-- Optimization & profiling (Update cost, allocations/GC, stability)
-- Tools & workflow: Git, GitHub, Rider
+<br>
 
----
+### 🛸 [MQ-9 Drone Simulator](https://github.com/xvostik201/MQ9DroneSimulation)
+**Real-time UAV simulation with sensor systems.**
+<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=xvostik201&repo=MQ9DroneSimulation&theme=dark)](https://github.com/xvostik201/MQ9DroneSimulation)
 
-## 🧰 Tech Stack
+*Inertial gimbal stabilization, Ballistic artillery solvers, and Thermal vision (HLSL).*
 
-**Unity:** UGUI / UI Toolkit, DOTween, Object Pooling, NavMesh, Physics, Addressables (in progress)  
-**Languages:** C#, Shader Graph basics (HLSL fragments)  
-**Workflow:** Git, profiling, optimization
+<br>
 
 ---
 
+## 📊 Technical DNA & Activity
 
-## 👋 Note
-I prefer to **show results** in builds and code rather than making promises.
-If you want, I can walk through the architecture of my flagship project in a short demo call.
+| **Language Distribution** |
+| :---: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvostik201&layout=compact&theme=dark&hide=objective-c,aspnet) |
+
+*The high percentage of **ShaderLab** and **HLSL** reflects my focus on custom rendering, <br> while **Mathematica** supports my physics-heavy development workflow.*
+
+---
+
+**Want to chat about Apollo 11, Phantoms, or math?** <br> 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zakhar-kostyutkin-b2740b393/)
+[![Email](https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail)](mailto:zkostyutkin2004@gmail.com)
+
+<br>
+
+**xvostik201 by Zakhar Kostyuktin**
+
+</div>
