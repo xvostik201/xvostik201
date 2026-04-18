@@ -72,6 +72,21 @@ Environmental storytelling, modular level design, resource management mechanics.
 
 ---
 
+<br>
+
+## 📚 Learning Journey
+
+These projects showcase my early game development experimentation—non-architectural, but full of heart. They taught me the importance of clean systems design.
+
+### 🐦 **Angry Birds** — Physics Puzzler
+**Classic puzzle mechanics with destruction physics**
+
+Rigid body dynamics, destructible environments, satisfying gameplay feel.
+
+🔗 [Repository](https://github.com/xvostik201/AngryBirds)
+
+---
+
 ### 📝 **Find Words** — Word Search Gameplay
 **Clean gameplay loop with puzzle mechanics**
 
@@ -81,19 +96,25 @@ UI-driven interaction, word detection algorithms, satisfying feedback loops.
 
 ---
 
-### 🚂 **Along the Rails** — Environmental Simulation
-**Cinematic railway experience**
+### 🎯 **Radars** — Navigation & Detection System
+**UI/Radar mechanics experimentation**
 
-📂 [Repository](https://github.com/xvostik201/AlongTheRails)
+Early systems work for sensor display and spatial awareness.
+
+🔗 [Repository](https://github.com/xvostik201/Radars)
 
 ---
 
-### 🐦 **Angry Birds** — Physics Puzzler
-**Classic puzzle mechanics with destruction physics**
+<br>
 
-Rigid body dynamics, destructible environments, satisfying gameplay feel.
+## 🚧 Work in Progress
 
-🔗 [Repository](https://github.com/xvostik201/AngryBirds)
+### 🚂 **Along the Rails** — Environmental Simulation *(In Development)*
+**Cinematic railway experience**
+
+Still crafting this one. Stay tuned! 🎬
+
+📂 [Repository](https://github.com/xvostik201/AlongTheRails)
 
 ---
 
@@ -114,11 +135,15 @@ Rigid body dynamics, destructible environments, satisfying gameplay feel.
 
 <br>
 
-## 📊 Recent Activity
+## 📊 Language Distribution
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvostik201&layout=compact&theme=dark&hide=objective-c,aspnet)
 
+*C# for gameplay systems, ShaderLab for custom rendering, and a dash of everything else.*
+
 ---
+
+<br>
 
 **Want to chat about Apollo 11, aviation, or game systems?**
 
