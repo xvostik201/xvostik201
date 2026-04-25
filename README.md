@@ -1,157 +1,68 @@
 <div align="center">
-
 # 🎮 Zakhar Kostyuktin — Unity Developer (C#)
 
-> Building systems that *feel* right. Gameplay mechanics, real-time features, clean architecture.
+> Building immersive systems that *feel* right. Clean architecture, tactile interactions, and meaningful gameplay.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakhar%20Kostyuktin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zakhar-kostyutkin-b2740b393/)
 [![Email](https://img.shields.io/badge/Email-zkostyutkin2004%40gmail.com-red?style=flat-square&logo=gmail)](mailto:zkostyutkin2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zakharkostyutkindev.tilda.ws-green?style=flat-square)](https://zakharkostyutkindev.tilda.ws/)
 
-<br>
+---
+
+## 🚀 Featured Project
+
+### 🛰️ **The Checklist** — Advanced Cockpit Interaction Framework
+
+**High-fidelity aircraft cockpit simulator** with data-driven controls, intelligent checklist system with rollback mechanics, and cinematic takeoff sequence.
+
+**Key Features:**
+- Different control types: Buttons, Levers, Dragging thrust lever, Interactive Clipboard
+- Smart Checklist with automatic rollback on mistakes
+- Clean Architecture using **Zenject** + Interface-based design
+- ElementRegistry for easy extensibility
+- DOTween animations, audio pooling, dynamic camera
+- Seamless Unity Timeline cinematic ending
+
+[![Watch Demo](https://github.com/xvostik201/TheChecklist/raw/main/Assets/_Projects/Documentation/PlaneCockpitFinal.png)](https://www.youtube.com/watch?v=fDp7lWHwGHg)
+
+🔗 **[Repository → The Checklist](https://github.com/xvostik201/TheChecklist)**
 
 ---
 
-## 🛠️ Personal Drive & Philosophy
+## 🛠️ Other Projects
 
-I'm driven by **mathematics**, **precision**, and **immersive simulation**. <br>
-My passion: Creating deep systems where every interaction feels tactile and *intentional*.
+**🔫 Shooting-Pattern** — Advanced FPS Weapon Framework (SOLID + Zenject)  
+**🛸 MQ-9 Drone Simulator** — Real-time UAV operator experience  
+**🚢 Titanic Simulator** — Physics-based historical disaster simulation  
+**🌙 Apollo 11 Museum** — Interactive historical mission experience  
 
-**🚀 Space Exploration** | **✈️ Aviation & Simulators** | **📐 Math-Driven Mechanics** | **🎮 Real-time Systems**
-
-*Apollo 11 engineering | F-4 Phantom II heritage | Bringing analog-to-digital immersion.*
-
----
-
-<br>
-
-## 🎯 Featured Projects
-
-### 🔫 **Shooting-Pattern** — FPS Weapon Framework
-**Advanced ballistics with clean SOLID architecture**
-
-Dual-raycast parallax compensation, procedural recoil (Curves/Arrays), Zenject DI, interface-based damage.
-
-🔗 [Repository](https://github.com/xvostik201/Shooting-Pattern)
+*(These projects represent my learning journey and experimentation with different gameplay systems.)*
 
 ---
-
-### 🛸 **MQ-9 Drone Simulator** — Real-time UAV Operator Workflow
-**Complete gameplay demo with sensor systems**
-
-Inertial gimbal stabilization, ballistic artillery solvers, thermal vision (HLSL), mission flow, map UI.
-
-🔗 [Repository](https://github.com/xvostik201/MQ9DroneSimulation) | 🎮 [Play Demo](https://xvostik201.itch.io/dronesimulator)
-
----
-
-### 🚢 **Titanic Simulator** — Historical Disaster Simulation
-**Physics-based environmental storytelling**
-
-Realistic ship dynamics, flooding mechanics, period-accurate detail, immersive exploration.
-
-🔗 [Repository](https://github.com/xvostik201/Titanic-Game)
-
----
-
-### 🌙 **Apollo 11 Museum** — Interactive Historical Experience
-**First-person Apollo 11 mission simulation**
-
-Physics-based character controller, event-driven scenario systems (1202 Program Alarm), modular interaction systems, historical accuracy.
-
-🔗 [Repository](https://github.com/xvostik201/Apollo11Museum)
-
----
-
-### 👁️ **Echoes in the Hull** — Sci-Fi Interaction System
-**Atmospheric station with power management**
-
-Environmental storytelling, modular level design, resource management mechanics.
-
-🔗 [Repository](https://github.com/xvostik201/EchoesInTheHull)
-
----
-
-<br>
-
-## 📚 Learning Journey
-
-These projects showcase my early game development experimentation—non-architectural, but full of heart. They taught me the importance of clean systems design.
-
-### 🐦 **Angry Birds** — Physics Puzzler
-**Classic puzzle mechanics with destruction physics**
-
-Rigid body dynamics, destructible environments, satisfying gameplay feel.
-
-🔗 [Repository](https://github.com/xvostik201/AngryBirds)
-
----
-
-### 📝 **Find Words** — Word Search Gameplay
-**Clean gameplay loop with puzzle mechanics**
-
-UI-driven interaction, word detection algorithms, satisfying feedback loops.
-
-🔗 [Repository](https://github.com/xvostik201/FindWords)
-
----
-
-### 🎯 **Radars** — Navigation & Detection System
-**UI/Radar mechanics experimentation**
-
-Early systems work for sensor display and spatial awareness.
-
-🔗 [Repository](https://github.com/xvostik201/Radars)
-
----
-
-<br>
-
-## 🚧 Work in Progress
-
-### 🚂 **Along the Rails** — Environmental Simulation *(In Development)*
-**Cinematic railway experience**
-
-Still crafting this one. Stay tuned! 🎬
-
-📂 [Repository](https://github.com/xvostik201/AlongTheRails)
-
----
-
-<br>
 
 ## 🛠️ Tech Stack
 
-| Category | Tech |
-|----------|------|
-| **Engine** | Unity 2022.3+ |
-| **Language** | C# |
-| **Architecture** | Zenject (DI), Event Systems, FSM, SOLID |
-| **Animation & Polish** | DOTween, Cinemachine, UGUI, UI Toolkit |
-| **Physics & Graphics** | Raycasting, Vector Math, Shader Graph, HLSL |
-| **Tools** | Git, Rider, Profiler, NavMesh |
+| Category          | Technologies |
+|-------------------|--------------|
+| **Engine**        | Unity 2022.3+ |
+| **Language**      | C# |
+| **Architecture**  | Zenject (DI), Interfaces, SOLID, Event-driven |
+| **Animation**     | DOTween, Cinemachine |
+| **UI / Graphics** | TextMeshPro, Shader Graph, HLSL |
+| **Tools**         | Git, Rider, Unity Profiler |
 
 ---
-
-<br>
 
 ## 📊 Language Distribution
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvostik201&layout=compact&theme=dark&hide=objective-c,aspnet)
-
-*C# for gameplay systems, ShaderLab for custom rendering, and a dash of everything else.*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvostik201&layout=compact&theme=dark)
 
 ---
 
-<br>
-
-**Want to chat about Apollo 11, aviation, or game systems?**
+**Interested in simulation systems, aviation, space or clean architecture?**  
+Let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zakhar-kostyutkin-b2740b393/)
 [![Email](https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail)](mailto:zkostyutkin2004@gmail.com)
 
-<br>
-
 **xvostik201 by Zakhar Kostyuktin**
-
 </div>
